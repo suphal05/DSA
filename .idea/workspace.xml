@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc1a5ceb-b6d3-47c9-a240-865f53b3b846" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/array/Array_Day_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/array/Array_Day_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/array/Array_Day_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ansum/Documents/DSA/DSA/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array_Day_3">
+  <component name="RunManager" selected="Application.Array_Day_4">
     <configuration name="Array_Day_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.array.Array_Day_1" />
       <module name="DSA" />
@@ -87,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Array_Day_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.array.Array_Day_4" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DSA" />
@@ -96,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array_Day_4" />
         <item itemvalue="Application.Array_Day_3" />
         <item itemvalue="Application.Array_Day_2" />
         <item itemvalue="Application.Array_Day_1" />
